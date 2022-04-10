@@ -8,6 +8,7 @@ use Nette\SmartObject;
 
 /**
  * Model operací kalkulačky.
+ * Moje změna komentáře.
  * @package App\Model
  */
 class CalculatorManager
